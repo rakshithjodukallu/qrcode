@@ -16,7 +16,7 @@ body{
     padding: 20px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 150px;
+    /* margin-bottom: 150px; */
 }
 
 .codeouter img{
@@ -51,7 +51,7 @@ body{
         padding: 20px;
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 150px;
+        /* margin-bottom: 150px; */
     }
 
 
@@ -65,7 +65,7 @@ body{
         padding: 20px;
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 150px;
+        /* margin-bottom: 150px; */
     }
     .codeouter h4 {
         text-align: center;
