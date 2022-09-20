@@ -1,7 +1,11 @@
 body{
     
+    min-height: 100vh;
     background-color: #d5e1ef;
-    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
    
 }
 
